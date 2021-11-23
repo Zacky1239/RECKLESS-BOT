@@ -18,11 +18,11 @@ class Config(object):
     API_HASH = ""
     BOT_ID = ""
     TOKEN = ""  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
-    OWNER_ID = 1833279646  # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    OWNER_USERNAME = "kavinduaj"
-    SUDO_USERS = "1833279646"
-    SUPPORT_USERS = "1833279646"
-    SUPPORT_CHAT = "lkhitech"  # Your own group for support, do not add the @
+    OWNER_ID = 1908590461 # If you dont know, run the bot and do /id in your private chat with it, also an integer
+    OWNER_USERNAME = "teri_behn_ka_bf"
+    SUDO_USERS = "1908590461"
+    SUPPORT_USERS = "1908590461"
+    SUPPORT_CHAT = "RecklessxSupport"  # Your own group for support, do not add the @
     JOIN_LOGGER = (
         -1001237555668
     )  # Prints any new group the bot is added to, prints just the name and ID.
@@ -94,4 +94,4 @@ class Production(Config):
 
 
 class Development(Config):
-    LOGGER = True
+    
