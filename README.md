@@ -43,7 +43,7 @@
 
 ```
 
-python3 -m mrjoker
+python3 -m mr ᴄʜɪʀᴀɢ
 
 ```
 
