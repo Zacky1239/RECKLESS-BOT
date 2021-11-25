@@ -154,20 +154,22 @@ sqldbtype://username:pw@hostname:port/db_name
 <h3 align = "justify">Replace sqldbtype with whichever db youre using (eg postgres, mysql, sqllite, etc) repeat for your username, password, hostname (localhost?), port (5000), and db name.</h3>
 
 ## Support
-[![HITECH](https://img.shields.io/badge/LKHITECH-Channel-red?style=for-the-badge&logo=telegram)](https://telegram.dog/lkhitech)</br></br>
-[![HITECH](https://img.shields.io/badge/LKHITECH-Group-red?style=for-the-badge&logo=telegram)](https://telegram.dog/hitechlkgroup)</br></br>
-[![CONTACT ME](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/kavinduaj)
+[![HITECH](https://img.shields.io/badge/RecklessxUpdate-Channel-red?style=for-the-badge&logo=telegram)](https://telegram.dog/lkhitech)</br></br>
+[![HITECH](https://img.shields.io/badge/RecklessxSupport-Group-red?style=for-the-badge&logo=telegram)](https://telegram.dog/hitechlkgroup)</br></br>
+[![CONTACT ME](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/teri_behn_ka_bf)
 
 ## Discussions
 <p align="left">
-<a href="https://github.com/kjeymax/MR-JOKER_BOT/discussions" alt="Mr Joker"> <img src="https://img.shields.io/badge/%F0%9F%A4%A1-Mr%20Joker%20Discussions-9cf" /> </a>
+<a href="https://github.com/zacky1239/RECKLESS-BOT/discussions" alt="Mr chirag"> <img src="https://telegra.ph/file/b5792bb60df4dfddd2e08.jpgDiscussions-9cf" /> </a>
 
 ## Credits
 
- - [Utah](https://github.com/minatouzuki/utah).
- - [WilliamButcherBot](https://github.com/thehamkercat/WilliamButcherBot)
- - [Alita_Robot](https://github.com/DivideProjects/Alita_Robot/)
- - [Saitama Robot](https://github.com/AnimeKaizoku/SaitamaRobot)
+ - @export_gabber
+  - @king_of_deadking 
+  - ᴀɴᴅ ᴀʟʟ ᴍʏ ᴅᴇᴀʀ ғʀɪᴇɴᴅs ᴀɴᴅ sᴜᴘᴘᴏʀᴛᴇʀs
+ 
+ 
+ 
 
 <h3 align = "justify">Don't forget to star this repo if you liked it.</br></br>
 
