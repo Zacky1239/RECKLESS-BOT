@@ -43,7 +43,7 @@
 
 ```
 
-python3 -m mr ᴄʜɪʀᴀɢ
+python3 -m mr (chiraf)
 
 ```
 
